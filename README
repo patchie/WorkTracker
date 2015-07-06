@@ -1,0 +1,62 @@
+ __        __         _    _____               _             
+ \ \      / /__  _ __| | _|_   _| __ __ _  ___| | _____ _ __ 
+  \ \ /\ / / _ \| '__| |/ / | || '__/ _` |/ __| |/ / _ \ '__|
+   \ V  V / (_) | |  |   <  | || | | (_| | (__|   <  __/ |   
+    \_/\_/ \___/|_|  |_|\_\ |_||_|  \__,_|\___|_|\_\___|_|   
+	
+	
+CONTENTS OF THIS FILE
+---------------------
+ * Introduction
+ * Requirements
+ * Installation
+ * Configuration
+ * Troubleshooting
+ * FAQ
+ * Maintainers
+ 
+ INTRODUCTION
+------------
+This project is designed to make life easier for people who 
+use Microsoft Windows. This application will help you keep
+track of your hours, and overhours automatically, so you dont
+miss out on any forgotten hours. It will record the time you
+are logged in to windows, and also notify you when its lunch
+and when its time to go home.
+
+REQUIREMENTS
+------------
+This application is tested on the following systems:
+* Microsoft Windows 7
+
+INSTALLATION
+------------
+......
+
+CONFIGURATION
+-------------
+To configure WorkTracker, double-click the icon in systemtray. 
+You will then get access to a GUI (graphical user interface) 
+that will explain what to do.
+
+TROUBLESHOOTING
+---------------
+.....
+
+FAQ
+---
+Q: 
+A: 
+
+TODO
+----
+* Add screenshots
+* Change the rightclick systemtray menu
+* Adding a better howto in the gui
+* ....
+* ....
+
+MAINTAINERS
+-----------
+Patchie
+r4nd0m1
